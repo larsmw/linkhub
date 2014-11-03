@@ -1,0 +1,43 @@
+name = Linkhub
+description = Description of what the profile does.
+core = 7.x
+dependencies[] = block
+dependencies[] = comment
+dependencies[] = contextual
+dependencies[] = dashboard
+dependencies[] = help
+dependencies[] = image
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = taxonomy
+dependencies[] = dblog
+dependencies[] = search
+dependencies[] = shortcut
+dependencies[] = admin_menu
+dependencies[] = admin_menu_toolbar
+dependencies[] = field
+dependencies[] = field_sql_storage
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = rdf
+dependencies[] = strongarm
+dependencies[] = features
+dependencies[] = views
+;dependencies[] = views_content
+dependencies[] = views_ui
+
+dependencies[] = linkit
+
+dependencies[] = entity
+dependencies[] = entity_token
+dependencies[] = strongarm
+dependencies[] = job_scheduler
+dependencies[] = honeypot
+dependencies[] = googleanalytics
+dependencies[] = rules
+
+;features
+

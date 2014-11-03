@@ -1,0 +1,11 @@
+<?php
+
+/**
+ * Implements hook_install().
+ * 
+ * Performs actions to set up the site
+ */
+function itkabler_install() {
+  include_once DRUPAL_ROOT . '/profiles/minimal/minimal.install';
+  minimal_install();
+}
