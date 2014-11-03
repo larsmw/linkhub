@@ -38,6 +38,8 @@ dependencies[] = job_scheduler
 dependencies[] = honeypot
 dependencies[] = googleanalytics
 dependencies[] = rules
+dependencies[] = background_process
+dependencies[] = ultimate_cron
 
 ;features
 
