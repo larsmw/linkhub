@@ -6,8 +6,6 @@
  * Performs actions to set up the site
  */
 function itkabler_install() {
-  include_once DRUPAL_ROOT . '/profiles/minimal/minimal.install';
-  minimal_install();
 
   // Insert default pre-defined node types into the database. For a complete
   // list of available node type attributes, refer to the node type API
