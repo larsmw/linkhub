@@ -5,7 +5,7 @@
  * 
  * Performs actions to set up the site
  */
-function itkabler_install() {
+function linkhub_install() {
 
   // Add text formats.
   $filtered_html_format = array(
